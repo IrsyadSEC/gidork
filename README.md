@@ -1,7 +1,7 @@
 # GIDORK | v1.0
 **Author:** IRSYADSEC  
 
-GIDORK is a powerful tool designed to assist cybersecurity staff in identifying compromised company websites or specific domains. The tool automates Google Dorking, analyzes links for redirects, and scans page content for specific keywords.
+GIDORK is a powerful tool designed to assist cybersecurity staff in identifying compromised company websites or specific domains. The tool automates Google Dorking, analyzes links for redirects, and scans page content for specific keywords. This tool will be regularly updated to improve functionality and support the evolving needs of the cybersecurity community.
 
 
 ## Features
