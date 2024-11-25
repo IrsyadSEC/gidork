@@ -29,3 +29,15 @@ The following Python libraries are required:
 To install all dependencies, use the following command:
 ```bash
 pip install selenium requests beautifulsoup4
+```
+
+
+## Usage
+You can download the latest version of gidork by cloning the GitHub repository.
+```bash
+git clone https://github.com/IrsyadSEC/gidork.git
+```
+
+```bash
+python gidork.py
+```
